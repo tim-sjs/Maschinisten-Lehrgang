@@ -1,0 +1,1495 @@
+window.QUESTION_BANK = [
+  {
+    "id": 1,
+    "page": 3,
+    "question": "Nach Fahrten mit Feuerwehrfahrzeugen erfolgt die Eintragung in das Fahrtenbuch durch den:",
+    "options": [
+      "Gruppenführer",
+      "Einsatzleiter",
+      "Maschinisten",
+      "rtsbrandmeister"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 2,
+    "page": 3,
+    "question": "Bei Feststellung von Mängeln am Fahrzeug muss der Maschinist z.B.:",
+    "options": [
+      "unverzüglich Meldung machen",
+      "das Fahrzeug auf dem nächsten Dienst reparieren",
+      "den Kreisbrandmeister telefonisch informieren",
+      "abwarten bis zum nächsten Werkstattbesuch"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 3,
+    "page": 3,
+    "question": "Die Aufgabe des Maschinisten ist z.B.:",
+    "options": [
+      "nach Eintreffen an der Einsatzstelle beendet, da er nur zu fahren hat",
+      "das Ankuppeln von Schläuchen an die Pumpe",
+      "zu den Strahlrohren die Schlauchverbindung herzustellen",
+      "die Trupps bei der Entnahme von Geräten aus dem Fahrzeug zu unterstützen"
+    ],
+    "correctAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "page": 3,
+    "question": "Wer ist für die Wiederherstellung der Einsatzbereitschaft des Fahrzeugs nach dem Einsatz zuständig?",
+    "options": [
+      "Der Einsatzleiter",
+      "Der Maschinist",
+      "Der Fahrzeugführer",
+      "Der Ortsbrandmeister"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 5,
+    "page": 4,
+    "question": "Über die Inanspruchnahme der Sonder- und Wegerechte entscheidet:",
+    "options": [
+      "Der Gerätewart",
+      "Der Maschinist",
+      "Der Einheitsführer",
+      "Der Angriffstruppführer"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 6,
+    "page": 4,
+    "question": "Wie kann der Löschwasserbehälter eines Tanklöschfahrzeuges gefüllt werden?",
+    "options": [
+      "durch den Domdeckel",
+      "über den Entwässerungshahn",
+      "von der Pumpe aus",
+      "über den B-Füllstutzen"
+    ],
+    "correctAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "page": 4,
+    "question": "In welchen Fällen darf die Feuerwehr Sonder- und Wegerechte in Anspruch nehmen?",
+    "options": [
+      "in jedem Falle",
+      "nur zur Absicherung eines Festumzuges",
+      "nur zur Erfüllung hoheitlicher Aufgaben bei höchster Eile",
+      "wenn der Maschinist der Meinung ist"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 8,
+    "page": 4,
+    "question": "Welche Aufgabe hat der Maschinist bei einem Steckleitereinsatz?",
+    "options": [
+      "Er gibt nur die erforderlichen Leiterteile vom Fahrzeug",
+      "Er gibt die Steckleiter komplett vom Fahrzeug",
+      "Er gibt die Anzahl der benötigten Leiterteile an Er hilft dem vorgehenden Trupp bei der Vornahme der Leiter"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 9,
+    "page": 4,
+    "question": "Wer überprüft nach Einsätzen oder Übungen die Vollständigkeit der Geräte und meldet sie dem Gruppenführer?",
+    "options": [
+      "Der Trupp, der die Geräte benutzt hat",
+      "Der Melder",
+      "Der Maschinist",
+      "Der Fahrzeugführer"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 10,
+    "page": 5,
+    "question": "Wie erfolgt die Löschwasserentnahme aus einem Löschwasserbrunnen?",
+    "options": [
+      "direkter Anschluss der Feuerlöschkreiselpumpe",
+      "über Saugschläuche",
+      "über Druckschläuche",
+      "über das Standrohr"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 11,
+    "page": 5,
+    "question": "Die Zentrale Wasserversorgung ist:",
+    "options": [
+      "Das Rohrnetz",
+      "Die Wasserversorgung, die das Land sicherstellen muss",
+      "Eine Wasserentnahmestelle, die z.B. im Mittelpunkt einer Stadt liegt"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 12,
+    "page": 5,
+    "question": "Was gibt das Kurzzeichen H100 auf einem Hydrantenhinweisschild an?",
+    "options": [
+      "Den Nenndurchmesser des Hydranten in mm",
+      "Den Nenndurchmesser der Versorgungsleitung in mm",
+      "Die entnehmbare Wassermenge in Liter / Stunde",
+      "Die Entfernung des Hydranten zum Schild"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 13,
+    "page": 5,
+    "question": "Was bedeutet die Abkürzung „LF 20“?",
+    "options": [
+      "Löschgruppenfahrzeug mit einer fest eingebauten Pumpe, die einen Förderstrom von 2.000 l/min bei 12 bar Ausgangsdruck liefert",
+      "Löschfahrzeug mit einer fest eingebauten Pumpe, die einen Förderstrom von 2.000 l/min unabhängig vom Ausgangsdruck liefert sowie über einen Löschwasserbehälter mit einem nutzbaren Inhalt von 1.600 l verfügt",
+      "Löschgruppenfahrzeug mit einer fest eingebauten Pumpe, die einen Förderstrom von 2.000 l/min bei 10 bar Ausgangsdruck liefert sowie über einen Löschwasserbehälter mit einem nutzbaren Inhalt von min. 2.000 l verfügt",
+      "Löschgruppenfahrzeug mit einer tragbaren Pumpe, die einen Förderstrom von 2.000 l/min bei 8 bar Ausgangsdruck liefert sowie über einen Löschwasserbehälter mit einem nutzbaren Inhalt von 1.600 l verfügt"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 14,
+    "page": 6,
+    "question": "Wie gelangt das Wasser bei einem Saugvorgang in die Pumpe?",
+    "options": [
+      "Die Entlüftungseinrichtung zieht das Wasser in die Pumpe",
+      "Die Pumpe saugt das Wasser selbsttätig an",
+      "Der äußere Luftdruck drückt das Wasser nach der Entlüftung in die Pumpe"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 15,
+    "page": 6,
+    "question": "Was bedeutet die Bezeichnung FPN 10-2000?",
+    "options": [
+      "Feuerlöschkreiselpumpe Normaldruck mit einem Nennförderdruck von 20 bar und einem Nennförderstrom von 1.000 l/min. bei einer geodätischen Saughöhe von 3 m",
+      "Feuerlöschkreiselpumpe Normaldruck mit einem Nennförderdruck von 10 bar und einem Nennförderstrom von 2.000 l/min bei einer geodätischen Saughöhe von 3 m",
+      "Feuerlöschkreiselpumpe Normaldruck mit einem Nennförderdruck von 10 bar und einem Nennförderstrom von 2.000 l/min. bei einer geodätischen Saughöhe von 7,5 m und Höchstdrehzahl",
+      "Feuerlöschkreiselpumpe Normaldruck mit einem Nennförderdruck von 10 bar und einem Nennförderstrom von 2.000 l/min. bei einer geodätischen Saughöhe von 7,5 m."
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 16,
+    "page": 6,
+    "question": "Was hat der Maschinist bei einem Unfall mit einem Feuerwehrfahrzeug zu beachten?",
+    "options": [
+      "Unverzüglich anhalten, Unfallstelle absichern, Hilfe leisten, Polizei hinzuziehen",
+      "Bei Alarmfahrten kann der Einheitsführer über eine weiterfahrt entscheiden",
+      "Nichts, da Unfälle der Feuerwehr nicht der StVO und dem StGB unterliegen",
+      "Für die Abwicklung des Unfalls ist grundsätzlich der Gerätewart zuständig"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 17,
+    "page": 6,
+    "question": "Was versteht man unter einem Löschwasser-Sauganschluss?",
+    "options": [
+      "Eine ortsfeste Anschlussvorrichtung für Saugschläuche",
+      "Eine vorbereitete Löschwasserentnahmestelle an einem Tanklöschfahrzeug",
+      "Eine Anschlussvorrichtung zur Wasserentnahme aus dem Rohrnetz",
+      "Der Anschluss des Fahrzeugtanks an die Kreiselpumpe"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 18,
+    "page": 7,
+    "question": "Wer ist bei Fahrten mit Einsatzfahrzeugen für die sichere Ausführung verantwortlich?",
+    "options": [
+      "Der Melder",
+      "Der Ortsbrandmeister",
+      "Der Maschinist"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 19,
+    "page": 7,
+    "question": "Die Fördermenge an einer Einsatzstelle beträgt 600 l/min. Welche Mehrzweckstrahlrohre sind bei einem Strahlrohrdruck von 4 bar im Einsatz?",
+    "options": [
+      "1 B-Rohr mit Mundstück, ein C-Rohr mit Mundstück und ein C-Rohr ohne Mundstück",
+      "3 C-Rohre ohne Mundstück",
+      "1 B-Rohr ohne Mundstück",
+      "1 B-Rohr mit Mundstück und 1 C-Rohr mit Mundstück",
+      "3 C-Rohre mit Mundstück, ein B-Rohr mit Mundstück"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2,
+      4
+    ]
+  },
+  {
+    "id": 20,
+    "page": 7,
+    "question": "Was geben die Zahlen hinter dem Kurzzeichen „FP“, 8/8 an?",
+    "options": [
+      "1. Zahl: Nennförderdruck; 2. Zahl: Nennförderstrom",
+      "1. Zahl: Nennförderstrom; 2. Zahl: Nennförderdruck",
+      "1. Zahl: Nennförderstrom; 2. Zahl: Nennförderhöhe",
+      "1. Zahl: Nennförderstrom; 2. Zahl: mitgeführte Wassermenge"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 21,
+    "page": 7,
+    "question": "Was versteht man unter der Bezeichnung PFPN 10-1000?",
+    "options": [
+      "eine tragbare Feuerlöschkreiselpumpe mit einem Nennförderstrom von 1.000 l/min bei einem Nennförderdruck von 10 bar",
+      "eine an einem 1.000 l Löschmittelbehälter angeschlossene Tragkraftspritze",
+      "eine Feuerlöschkreiselpumpe mit einem Nennförderdruck von 10 bar und einem Nennförderstrom von 1.000 l/min"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 22,
+    "page": 8,
+    "question": "Während eines Pumpenbetriebes wird der Unterdruck größer und der Ausgangsdruck sinkt! Welcher Fehler liegt vor?",
+    "options": [
+      "Der Saugkorb liegt nicht mehr vollständig unter der Wasseroberfläche",
+      "Die Wasserabgabe ist größer geworden",
+      "Der Saugkorb ist verstopft",
+      "„Wasser halt“ ohne Ankündigung"
+    ],
+    "correctAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 23,
+    "page": 8,
+    "question": "Zu den Löschfahrzeugen gehören:",
+    "options": [
+      "KLF, HLF",
+      "WLF, LF, TSF",
+      "LF, RW, SW",
+      "TLF, DLK",
+      "DLK, GW, LF",
+      "LF, TLF, TSF",
+      "DL, RW, SW",
+      "TLF, MLF"
+    ],
+    "correctAnswers": [
+      0,
+      5,
+      7
+    ]
+  },
+  {
+    "id": 24,
+    "page": 8,
+    "question": "Was bedeutet die Abkürzung „HLF 20“?",
+    "options": [
+      "Löschgruppenfahrzeug mit einer fest eingebauten Pumpe, die einen Förderstrom von 2.000 l/min bei 16 bar Ausgangsdruck liefert",
+      "Löschfahrzeug mit einer fest eingebauten Pumpe, die einen Förderstrom von 1.600 l/min unabhängig vom Ausgangsdruck liefert sowie über einen Löschwasserbehälter mit einem nutzbaren Inhalt von 2.000 l verfügt",
+      "Löschgruppenfahrzeug mit einer fest eingebauten Pumpe, die einen Förderstrom von 2.000 l/min bei 10 bar Ausgangsdruck liefert sowie über einen Löschwasserbehälter mit einem nutzbaren Inhalt von 1.600 l verfügt und einer Beladung für die technische Hilfeleistung"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 25,
+    "page": 8,
+    "question": "Wie viel Löschwasser wird in einem TSF-W mitgeführt?",
+    "options": [
+      "es wird überhaupt kein Löschwasser mitgeführt",
+      "mind. 500 l",
+      "max. 750 l nach Norm"
+    ],
+    "correctAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 26,
+    "page": 9,
+    "question": "Wie viel Löschwasser wird auf einem nach Norm MLF mitgeführt?",
+    "options": [
+      "max. 1.000 l",
+      "min. 600 l",
+      "es wird kein Löschwasser mitgeführt"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 27,
+    "page": 9,
+    "question": "Wo steht der Zeiger des Eingangsdruckmanometers einer FP bei einer Entnahme aus offenem Gewässer?",
+    "options": [
+      "Auf „0“",
+      "Auf der roten Skala",
+      "Auf der schwarzen Skala"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 28,
+    "page": 9,
+    "question": "Wie muss der Maschinist sich verhalten wenn „Zum Abmarsch fertig“ gegeben wird?",
+    "options": [
+      "Er kuppelt die Schläuche von der Pumpe ab",
+      "Er wartet auf den Gruppenführer",
+      "Er fördert noch solange Wasser, bis vom Verteiler aus „Wasser halt“ gegeben wird",
+      "Er nimmt die Motordrehzahl auf Leerlauf zurück und kuppelt die Pumpe aus."
+    ],
+    "correctAnswers": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 29,
+    "page": 9,
+    "question": "Worin liegt der Unterschied zwischen einem TSF und einem TSF-W?",
+    "options": [
+      "An der eingeschobenen Tragkraftspritze",
+      "An der fest eingebauten Feuerlöschkreiselpumpe",
+      "An dem Löschwasserbehälter, 500l",
+      "An der Beladung für eine Löschgruppe",
+      "An der Beladung für eine Löschstaffel"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 30,
+    "page": 9,
+    "question": "Bei einer Tragkraftspritze fällt die Entlüftungseinrichtung aus, weil die Auspuffanlage defekt ist. Mit welcher Entlüftungseinrichtung ist die TS ausgestattet?",
+    "options": [
+      "Flüssigkeitsring-Entlüftungseinrichtung",
+      "Gasstrahl- Entlüftungseinrichtung",
+      "Kolben-Entlüftungseinrichtung"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 31,
+    "page": 10,
+    "question": "Während eines Pumpenbetriebes steigt der Eingangsdruck, der Ausgangsdruck steigt stark an. Welcher Fehler liegt vor?",
+    "options": [
+      "Die Wasserabgabe ist größer geworden",
+      "Der Saugkorb ist verstopft",
+      "Der Saugkorb liegt nicht mehr unter der Wasseroberfläche",
+      "„Wasser halt“ ohne Ankündigung"
+    ],
+    "correctAnswers": [
+      3
+    ]
+  },
+  {
+    "id": 32,
+    "page": 10,
+    "question": "Wie kann trotz defekter Entlüftungseinrichtung Wasser aus einem offenen Gewässer entnommen werden?",
+    "options": [
+      "Durch Verkürzung der Saugleitung",
+      "Durch Erhöhung der Motordrehzahl",
+      "Gar nicht, es ist schnellstens für Ersatz zu sorgen",
+      "Durch Auffüllen der Saugleitung und der Feuerlösch-Kreiselpumpe über einen Druckausgang"
+    ],
+    "correctAnswers": [
+      3
+    ]
+  },
+  {
+    "id": 33,
+    "page": 10,
+    "question": "Worin bestehen die wesentlichen Unterschiede zwischen einem Otto- und einem Dieselmotor?",
+    "options": [
+      "ttomotoren werden zum Antrieb von Fahrzeugen verwendet, Dieselmotoren für den Antrieb von Schiffen und Traktoren",
+      "Dieselmotoren haben im Gegensatz zu Ottomotoren eine höhere Verdichtung und keine Zündanlage",
+      "Es bestehen keine wesentlichen Unterschiede. Nur die Zylinderanordnung ist unterschiedlich",
+      "Es bestehen keine wesentlichen Unterschiede, nur beim Ottomotor darf kein Dieselkraftstoff ohne Zusätze verwendet werden"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 34,
+    "page": 10,
+    "question": "Wann ist die beste Bremswirkung eines Fahrzeuges gegeben?",
+    "options": [
+      "Bei blockierten Rädern",
+      "Wenn die Räder gerade noch rollen",
+      "Bei gleichzeitiger Betätigung von Betriebs- und Feststellbremse"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 35,
+    "page": 11,
+    "question": "Ölwechsel bei einer TS/PFPN mit 4-Takt-Motor wird durchgeführt nach:",
+    "options": [
+      "Jedem Einsatz",
+      "Betriebsanleitung",
+      "150 Betriebsstunden",
+      "jährlich"
+    ],
+    "correctAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 36,
+    "page": 11,
+    "question": "Wie verhalten Sie sich bei einem Unfall mit einem Feuerwehrfahrzeug?",
+    "options": [
+      "Ich versuche, mich mit dem Betroffenen zu einigen.",
+      "Ich hole die Polizei, da es nicht mein eigenes Fahrzeug ist",
+      "(Bei Einsatzfahrt nach besonderer Weisung des Einheitsführers)",
+      "Ich versuche, den Schaden in der FTZ beheben zu lassen",
+      "Ich fahre einfach weiter, da ich schnellstmöglich zur Einsatzstelle gelangen muss"
+    ],
+    "correctAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 37,
+    "page": 11,
+    "question": "In welchen Fällen kann die Feuerwehr Sonderrechte im Straßenverkehr zur Erfüllung hoheitlicher Aufgaben in Anspruch nehmen?",
+    "options": [
+      "Bei Fahrten zu Kreisfeuerwehrtagen",
+      "Bei Einkauf-, Werkstatt- und Probefahrten",
+      "Bei der Rettung von Menschen",
+      "Beim Absperren eines Festumzuges",
+      "Bei der Bekämpfung von Schadenfeuern"
+    ],
+    "correctAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": 38,
+    "page": 11,
+    "question": "Wie müssen Feuerwehrfahrzeuge bei der Fahrt im Verband (mind. 3 Fzg.) kenntlich gemacht werden?",
+    "options": [
+      "Alle Fahrzeuge schalten das Abblendlicht ein, Flaggen setzen, nach hinten besonders sichern",
+      "Besondere Kennzeichnung ist nicht erforderlich",
+      "Warnblinkanlage und Fernlicht sind einzuschalten"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 39,
+    "page": 12,
+    "question": "Der Maschinist ist laut FwDV 3 zuständig für:",
+    "options": [
+      "Die Bedienung der Feuerlöschkreiselpumpe",
+      "Die Bedienung der eingebauten Aggregate",
+      "Zur Unterstützung der Trupps bei der Entnahme von Geräten",
+      "Zur Unterstützung beim Aufbau der Wasserversorgung",
+      "Die Übernahme der Atemschutzüberwachung auf Befehl"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  {
+    "id": 40,
+    "page": 12,
+    "question": "Wann besteht für andere Verkehrsteilnehmer die Verpflichtung freie Bahn zu schaffen?",
+    "options": [
+      "Wenn Feuerwehrfahrzeuge die Warnblinkanlage eingeschaltet haben",
+      "Wenn sich Feuerwehrfahrzeuge mit Abblendlicht und Hupe nähern",
+      "Wenn blaues Blinklicht und akustische Warneinrichtung gleichzeitig benutzt werden",
+      "Wenn nur blaues Blinklicht benutzt wird"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 41,
+    "page": 12,
+    "question": "Der Ausgangsdruck an der Pumpe muss:",
+    "options": [
+      "immer 8 bar betragen",
+      "der Höchstdruck sein",
+      "jeweils den Einsatzbedingungen angepasst werden"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 42,
+    "page": 12,
+    "question": "Für welche Aufgaben sind Hilfeleistungslöschfahrzeuge geeignet?",
+    "options": [
+      "Für die Brandbekämpfung",
+      "Für die Wasserförderung",
+      "Für die technische Hilfeleistung",
+      "Für die Rettung von Personen aus Hochhäusern über tragbare Leitern"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": 43,
+    "page": 12,
+    "question": "Für welche Aufgaben sind Löschfahrzeuge geeignet?",
+    "options": [
+      "Für die Brandbekämpfung",
+      "Für die Wasserförderung",
+      "Für die technische Hilfeleistung größeren Umfanges",
+      "Für die Rettung von Personen aus Hochhäusern über tragbare Leitern"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 44,
+    "page": 13,
+    "question": "Ein Gasstrahler wird betrieben mit:",
+    "options": [
+      "möglichst niedriger Drehzahl, da Anfangs der kalte Motor sonst Schaden nehmen könnte",
+      "Leerlaufdrehzahl des Motors",
+      "Stellung des Gashebels auf 1/3 bis 1/4",
+      "Vollgasdrehzahl"
+    ],
+    "correctAnswers": [
+      3
+    ]
+  },
+  {
+    "id": 45,
+    "page": 13,
+    "question": "Das Sammelstück wird an den Saugstutzen einer Pumpe angekuppelt bei:",
+    "options": [
+      "Saugbetrieb aus offenem Gewässer",
+      "Entnahme aus einem Löschwasserbrunnen mit Tiefenpumpe",
+      "Entnahme aus einem Hydranten",
+      "Förderung über lange Wegstrecke (Verstärkerpumpe)"
+    ],
+    "correctAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 46,
+    "page": 13,
+    "question": "Warum verwendet man ein Sammelstück, wenn das Wasser unter Druck Pumpe zufließt?",
+    "options": [
+      "Um weitere B-Leitungen anschließen zu können",
+      "Ein Sammelstück ist hier nicht erforderlich, da ein Übergangsstück den gleichen Zweck erfüllt",
+      "Um die zufließende Wassermenge zu begrenzen"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 47,
+    "page": 13,
+    "question": "Wie schwer darf eine PFPN 10-1000 im Höchstfalle sein?",
+    "options": [
+      "200 kg",
+      "180 kg",
+      "160 kg"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 48,
+    "page": 13,
+    "question": "Welche Pumpen werden zur Wasserförderung bei der Feuerwehr eingesetzt?",
+    "options": [
+      "Kolbenpumpen",
+      "Kreiselpumpen",
+      "Kapselschieberpumpen",
+      "Membranpumpen"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 49,
+    "page": 14,
+    "question": "Was verstehen Sie unter einer Druckstufe bei Feuerlöschkreiselpumpen?",
+    "options": [
+      "Eine Druckstufe besteht aus dem Pumpengehäuse",
+      "Eine Druckstufe besteht aus einem Leitapparat",
+      "Eine Druckstufe besteht aus einem Laufrad und einem Leitapparat"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 50,
+    "page": 14,
+    "question": "Der Druck an einer Feuerlöschkreiselpumpe entsteht durch:",
+    "options": [
+      "Fließen des Wassers in den Schlauchleitungen",
+      "Einschalten der Entlüftungseinrichtung",
+      "Umwandlung von Geschwindigkeitsenergie in Druckenergie durch Kanalerweiterung und Fliehkräfte"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 51,
+    "page": 14,
+    "question": "Wie schwer darf eine TS 8/8 im Höchstfalle sein?",
+    "options": [
+      "120 kg",
+      "150 kg",
+      "190 kg",
+      "210 kg inklusive aller Betriebsstoffe"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 52,
+    "page": 14,
+    "question": "Die tragbare Turbotauchpumpe wird angetrieben:",
+    "options": [
+      "Von einem Elektromotor",
+      "Durch eine Wasserturbine (Treibwasser)",
+      "Durch einen Treibwasserstrahl, der das Förderwasser mitreißt",
+      "Durch eine Kolbenpumpe"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 53,
+    "page": 14,
+    "question": "Um welchen Wert darf die zulässige Gesamtmasse eines Feuerwehrfahrzeuges überschritten werden?",
+    "options": [
+      "Die zulässige Gesamtmasse (Zulassungsbescheinigung Teil I) darf nicht überschritten werden",
+      "Um 20 %",
+      "Um 500 kg",
+      "Bei Einsatzfahrten um max. 10%"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 54,
+    "page": 15,
+    "question": "Die in einer Förderstrecke als Verstärkerpumpen eingesetzten Feuerlöschkreiselpumpen werden mit folgendem Ausgangsdruck gefahren:",
+    "options": [
+      "1,5 bar",
+      "6 bar",
+      "8 bar",
+      "In Abhängigkeit von der zu fördernden Wassermenge"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 55,
+    "page": 15,
+    "question": "Welche Fahrzeuge sind mit einer Schnellangriffseinrichtung ausgestattet?",
+    "options": [
+      "LF 10, TLF 3000, TSF",
+      "HLF 10, KLF, MLF",
+      "LF 20, LF 20 KatS, TSF-W"
+    ],
+    "correctAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 56,
+    "page": 15,
+    "question": "Was ist während des Hydrantenbetriebs zu beachten?",
+    "options": [
+      "Dass der Eingangsdruck nicht unter 1,5 bar abfällt",
+      "Dass der Eingangsdruck immer 3 bar beträgt",
+      "Dass immer Vollgas gefahren wird"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 57,
+    "page": 15,
+    "question": "Welche Signaleinrichtungen müssen verwendet werden, um die übrigen Verkehrsteilnehmer zu verpflichten, freie Bahn zu schaffen?",
+    "options": [
+      "Blaues Blinklicht und Einsatzhorn",
+      "Blaues Blinklicht und Warnblinkanlage",
+      "Einsatzhorn und Abblendlicht"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 58,
+    "page": 15,
+    "question": "Was bedeutet die Bezeichnung TTP 8/1/8?",
+    "options": [
+      "Turbinentauchpumpe, Nennförderstrom 800 l/min bei 1 m Saughöhe, Treibwasserdruck 8 bar",
+      "Tragbare Turbotauchpumpe, Nennförderstrom 800 l/min., Nennförderdruck 1 bar, Treibwasserdruck 8 bar",
+      "Wasserstrahlpumpe, 800 l/min Nennförderstrom.",
+      "Turbinentauchpumpe, Nennförderdruck 8 bar, Nennförderstrom 1000 l/min, Treibwasserdruck 8 bar"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 59,
+    "page": 16,
+    "question": "Sinn der Trockensaugprüfung einer FP ist:",
+    "options": [
+      "Die Überprüfung der Motorleistung",
+      "Die Prüfung der Garantiepunkte",
+      "Die Funktionsüberprüfung der Entlüftungseinrichtung",
+      "Die Dichtheitsüberprüfung der FP"
+    ],
+    "correctAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 60,
+    "page": 16,
+    "question": "Welche Aufgabe hat der Spaltring in einer Feuerlöschkreiselpumpe",
+    "options": [
+      "Dichtet Laufrad zum Lager ab",
+      "Abdichtung zwischen Saug- und Druckseite einer Druckstufe",
+      "Schützt die Feuerlöschkreiselpumpe vor Verschmutzung"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 61,
+    "page": 16,
+    "question": "Welche Ursache kann vorliegen, wenn der Unterdruck sowie der Ausgangsdruck Null wird und die Motordrehzahl auf den Höchstwert ansteigt (Motor heult)?",
+    "options": [
+      "Wasserabgabemenge an der Einsatzstelle wird stark erhöht",
+      "Saugkorb liegt frei",
+      "Saugkorb ist verstopft",
+      "Alle Strahlrohre wurden plötzlich geschlossen"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 62,
+    "page": 16,
+    "question": "Die elektrische Leistung der bei der Feuerwehr verwendeten tragbaren Stromerzeuger beträgt nach den gültigen Normen:",
+    "options": [
+      "≤ 2 KVA",
+      "≤ 5 KVA",
+      "> 5 KVA",
+      "20 KVA"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": 63,
+    "page": 16,
+    "question": "Zu welcher Gruppe der Löschfahrzeuge gehört ein HLF 20?",
+    "options": [
+      "Tragkraftspritzenfahrzeuge",
+      "Löschgruppenfahrzeuge",
+      "Tanklöschfahrzeuge"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 64,
+    "page": 17,
+    "question": "Zu welcher Gruppe der Feuerwehrfahrzeuge gehört ein MLF?",
+    "options": [
+      "Tragkraftspritzenfahrzeuge",
+      "Löschfahrzeuge",
+      "Löschgruppenfahrzeuge",
+      "Rüst- und Gerätewagen"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 65,
+    "page": 17,
+    "question": "Welche Ursache kann vorliegen, wenn während des Hydrantenbetriebs Ein- und Ausgangsdruck plötzlich ansteigen?",
+    "options": [
+      "Druckbegrenzungsventil hat angesprochen",
+      "Strahlrohre an der Einsatzstelle wurden geschlossen",
+      "Schlauch in der Förderstrecke ist geplatzt",
+      "Saugkorb liegt frei"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 66,
+    "page": 17,
+    "question": "Unter welchen Voraussetzungen muss eine FP 8/8 ihre Nennförderleistung erreichen?",
+    "options": [
+      "Die geodätische Saughöhe muss 3 m betragen",
+      "Der Ausgangsdruck muss 8 bar betragen",
+      "Die geodätische Saughöhe muss 7,5 m betragen"
+    ],
+    "correctAnswers": [
+      0,
+      1
+    ]
+  },
+  {
+    "id": 67,
+    "page": 17,
+    "question": "Unter welchen Voraussetzungen muss eine PFPN 10-1000 ihre Nennförderleistung erreichen?",
+    "options": [
+      "Der Ausgangsdruck muss 8 bar betragen",
+      "Die geodätische Saughöhe muss 3 m betragen",
+      "Der Ausgangsdruck muss 10 bar betragen"
+    ],
+    "correctAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 68,
+    "page": 17,
+    "question": "Welche Aussage über den Ruhedruck eines Hydranten ist richtig?",
+    "options": [
+      "Der Ruhedruck des Hydranten beträgt immer 5 bar",
+      "Der Ruhedruck des Hydranten kann bei Nullförderung am Eingangsdruckmanometer abgelesen werden.",
+      "Der Ruhedruck des Hydranten kann bei Wasserförderung am Ausgangsdruckmanometer abgelesen werden",
+      "Der Ruhedruck des Hydranten kann an den Manometern nicht abgelesen werde"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 69,
+    "page": 18,
+    "question": "Welche Aussage über den Fließdruck eines Hydranten ist richtig?",
+    "options": [
+      "Der Fließdruck des Hydranten wird bei Nullförderung am Eingangsdruckmanometer abgelesen",
+      "Der Fließdruck des Hydranten wird bei Wasserförderung am Eingangsdruckmanometer abgelesen",
+      "Der Fließdruck des Hydranten wird bei Wasserförderung am Ausgangsdruckmanometer abgelesen"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 70,
+    "page": 18,
+    "question": "Verbraucher dürfen nur dann an den Stromerzeuger angeschlossen- bzw. eingeschaltet werden:",
+    "options": [
+      "Wenn der Stromerzeuger mit Potentialausgleich zusätzlich geerdet wurde",
+      "Wenn der Motor des Stromerzeugers läuft",
+      "Wenn der Kraftstofftank vollständig aufgefüllt wurde",
+      "Wenn der Stromerzeuger noch nicht in Betrieb ist"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 71,
+    "page": 18,
+    "question": "Um welchen Wert darf der Unterdruck nach einer Trockensaugprobe abfallen?",
+    "options": [
+      "Er darf überhaupt nicht abfallen",
+      "Er darf innerhalb von 60 Sekunden um 0,1 bar abfallen",
+      "Er darf innerhalb von 120 Sekunden um 0,1 bar abfallen"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 72,
+    "page": 18,
+    "question": "Was ist bei der Aufstellung der Feuerlöschkreiselpumpe für den Saugbetrieb aus offenem Gewässer zu beachten?",
+    "options": [
+      "Saugleitung immer mit mindestens vier Saugschläuchen verwenden",
+      "Es dürfen maximal vier Saugschläuche verwendet werden",
+      "Saugleitung so kurz wie möglich",
+      "Länge der Saugleitung ist unwichtig",
+      "Pumpe so aufstellen, dass die geodätische Saughöhe möglichst gering ist"
+    ],
+    "correctAnswers": [
+      2,
+      4
+    ]
+  },
+  {
+    "id": 73,
+    "page": 19,
+    "question": "Wie kann der Förderstrom in „Liter pro Minute“ bei der Leistungsprüfung ermittelt werden?",
+    "options": [
+      "Mit Hilfe der Wasserlieferungstabelle aus Strahlrohrmundstücken",
+      "Nur bei den Herstellern mit Hilfe von Messanlagen",
+      "Der Förderstrom beträgt bei der FP 8/8 stets 800 l/min und muss nicht gemessen werden"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 74,
+    "page": 19,
+    "question": "Als „Geodätische Saughöhe“ wird bezeichnet:",
+    "options": [
+      "Der senkrechte Höhenunterschied zwischen saugseitigem Wasserspiegel und Pumpenwellenmitte.",
+      "Der Höhenunterschied zwischen Gewässergrund und Pumpenmitte",
+      "Der Höhenunterschied zwischen eingetauchtem Saugkorb und Pumpenmitte",
+      "Abhängig vom Eingangsdruck"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 75,
+    "page": 19,
+    "question": "Welche Arten der Wasserförderung gibt es?",
+    "options": [
+      "Halboffene Schaltreihe",
+      "ffene Schaltreihe",
+      "Hintereinander liegende Schaltreihe",
+      "Geschlossene Schaltreihe",
+      "Ebene Schaltreihe"
+    ],
+    "correctAnswers": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 76,
+    "page": 19,
+    "question": "Wann muss nach dem Einsatz die Einsatzbereitschaft der Fahrzeuge und Geräte wiederhergestellt werden?",
+    "options": [
+      "Am nächsten Tag durch den Gerätewart",
+      "Bei der nächsten Übung",
+      "Spätestens am nächsten Dienstabend",
+      "Sofort nach dem Einsatz"
+    ],
+    "correctAnswers": [
+      3
+    ]
+  },
+  {
+    "id": 77,
+    "page": 20,
+    "question": "Der Potentialausgleichsleiter aller elektrischen Betriebsmittel die eingesetzt wurden, ist zu überprüfen:",
+    "options": [
+      "Nach jedem Einsatz der Geräte",
+      "Alle 2 Jahre durch die FTZ",
+      "Alle 5 Jahre"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 78,
+    "page": 20,
+    "question": "Darf mit Saugschläuchen Wasser aus Hydranten entnommen werden?",
+    "options": [
+      "Nein, weil Saugschläuche nicht an Hydranten passen",
+      "Nein, bei einem möglichen Unterdruck kann die Wasserleitung beschädigt werden",
+      "Ja, Saugschläuche können jederzeit an Hydranten genutzt werden",
+      "Ja, weil durch den größeren Durchmesser mehr Löschwasser entnommen werden kann"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 79,
+    "page": 20,
+    "question": "„Sonderrechte“ beinhalten u.a. die Möglichkeit:",
+    "options": [
+      "Die zulässige Höchstgeschwindigkeit zu überschreiten",
+      "Vorfahrtsregelungen und Lichtzeichen zu missachten",
+      "Überholverbote und sonstige Verbote zu missachten"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": 80,
+    "page": 20,
+    "question": "Für einen tragbaren Stromerzeuger (DIN 14685) sind nachfolgende Prüfungen durchzuführen:",
+    "options": [
+      "Widerstandsmessung des Schutzleiters mittels eingebauter Prüfeinrichtung",
+      "Prüfung des Fehlerstromschutzschalters durch Aus-Taste - „O-Test“",
+      "Allgemeine Sichtprüfung",
+      "Prüfen des Potentialausgleichsleitungssystems auf Unterbrechungen mittels Prüfeinrichtung"
+    ],
+    "correctAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 81,
+    "page": 20,
+    "question": "Welche Faktoren bestimmen den Ausgangsdruck der Pumpe?",
+    "options": [
+      "Schlauchlänge",
+      "Höhenunterschiede",
+      "Anzahl und Art der eingesetzten Rohre",
+      "Schlauchdurchmesser"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "id": 82,
+    "page": 21,
+    "question": "Entlüftungseinrichtungen für Feuerlöschkreiselpumpen sind:",
+    "options": [
+      "Handkolben-Entlüftungspumpe, Turbinenstrahler, Umfüllpumpen",
+      "Flüssigkeitsring–Entlüftungspumpen, Radial-Entlüftungspumpen",
+      "Auspuff-Ejektor (Gasstrahler), Kolben-Entlüftungspumpen",
+      "Handkolben- Entlüftungspumpe, Membran-Entlüftungspumpen"
+    ],
+    "correctAnswers": [
+      2,
+      3
+    ]
+  },
+  {
+    "id": 83,
+    "page": 21,
+    "question": "Bei Stromerzeugern der Feuerwehr (DIN 14685)",
+    "options": [
+      "muss geerdet werden",
+      "entfällt die Erdung",
+      "dürfen max. 100 m Leitung hintereinander geschaltet werden",
+      "ist der Einsatz in explosionsgefährdeten Bereichen zulässig"
+    ],
+    "correctAnswers": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 84,
+    "page": 21,
+    "question": "Maßnahmen zur Vermeidung von Kavitation:",
+    "options": [
+      "Saughöhen über 7,50 m vermeiden",
+      "ggf. Verschmutzungen im Saugbereich beseitigen",
+      "Drehzahl der Feuerlöschkreiselpumpe und Fördermenge erhöhen",
+      "Nicht mit freiem Auslauf arbeiten"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "id": 85,
+    "page": 21,
+    "question": "Welche Bedeutung hat die Bezeichnung LF 10?",
+    "options": [
+      "Löschgruppenfahrzeug, 10 Mann Besatzung, 60 km/h Höchstgeschwindigkeit",
+      "Löschgruppenfahrzeug, 1.000 l Löschwasserbehälter, 600 l/min Pumpen-Nennförderstrom,",
+      "Löschgruppenfahrzeug, 1.000 l/min Pumpen-Nennförderstrom, 1200 l Löschwasserbehälter",
+      "Löschgruppenfahrzeug, zulässige Gesamtmasse 10 t, Motorleistung 60 kW"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 86,
+    "page": 21,
+    "question": "Um wie viel bar ändert sich in der Förderstrecke der Druck bei 10 m Höhenunterschied?",
+    "options": [
+      "0,1 bar",
+      "1 bar",
+      "10 bar",
+      "Bei einer geschlossenen Schaltreihe hat dies keinen Einfluss"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 87,
+    "page": 22,
+    "question": "Welche Bedeutung hat die Bezeichnung MLF?",
+    "options": [
+      "Löschfahrzeug, Staffelbesatzung, 1.000 l/min Pumpen-Nennförderstrom, 600 l Löschwasserbehälter",
+      "Löschfahrzeug, Staffelbesatzung, 1.000 l Löschwasserbehälter, 600 l/min Pumpen-Nennförderstrom,",
+      "Löschfahrzeug, Staffelbesatzung, 60 km/h Höchstgeschwindigkeit",
+      "Löschfahrzeug, Beladung für eine Gruppe, fest eingebaute Feuerlöschkreiselpumpe",
+      ""
+    ],
+    "correctAnswers": [
+      0,
+      3
+    ]
+  },
+  {
+    "id": 88,
+    "page": 22,
+    "question": "Warum muss bei Feuerlöschkreiselpumpen mit automatisch gesteuerten Entlüftungseinrichtungen mind. ein Ausgangsdruck von ca. 3 bar eingehalten werden?",
+    "options": [
+      "Weil dadurch die beste Ansaugleistung erzielt wird",
+      "Damit die Entlüftungseinrichtung ausgeschaltet wird",
+      "Um die Pumpenerwärmung zu verhindern",
+      "Bei automatisch gesteuerten Entlüftungseinrichtungen ist der Ausgangsdruck nicht zu beachten"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 89,
+    "page": 22,
+    "question": "Welche Garantiepunkte muss eine FP 8/8 erfüllen?",
+    "options": [
+      "800 l/min Förderstrom bei 8 bar Förderdruck, 3 m HSgeo",
+      "400 l/min Förderstrom bei 12 bar Förderdruck, 3 m HSgeo",
+      "400 l/min Förderstrom bei 8 bar Förderdruck, 7,5 m HSgeo",
+      "800 l/min Förderstrom bei 8 bar Förderdruck, 5 m HSgeo"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": 90,
+    "page": 22,
+    "question": "Welche Pumpenabstände sollten bei einem Förderstrom von 800 l/min. in der Ebene eingehalten werden?",
+    "options": [
+      "200 m",
+      "400 m",
+      "600 m",
+      "800 m",
+      "1.000 m"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 91,
+    "page": 23,
+    "question": "Wer bestimmt den Aufstellplatz des Löschfahrzeugs an der Einsatzstelle?",
+    "options": [
+      "Der Maschinist",
+      "Der Einheitsführer",
+      "Der Angriffstruppführer",
+      "Der Melder bei Abwesenheit des Einheitsführers"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 92,
+    "page": 23,
+    "question": "Warum weicht beim Saugbetrieb aus einer offenen Wasserentnahmestelle die manometrische Saughöhe von der geodätischen Saughöhe ab?",
+    "options": [
+      "Weil die geodätische Saughöhe von der Pumpenleistung beeinflusst wird",
+      "Weil die manometrische Saughöhe nur die tatsächliche Saughöhe anzeigt",
+      "Weil die manometrische Saughöhe auch die Saughöhenverluste anzeigt",
+      "Weil sich bei der Wasserförderung die manometrische Saughöhe verändert"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 93,
+    "page": 23,
+    "question": "Welche Ursache kann vorliegen, wenn die manometrische Saughöhe teilweise abfällt und an der Feuerlöschkreiselpumpe ruckartige Stöße auftreten?",
+    "options": [
+      "Saughöhe zu groß",
+      "Saugkorb befindet sich nicht weit genug unter der Wasseroberfläche (Wasserwirbelbildung)",
+      "Wasser halt an allen Rohren"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 94,
+    "page": 23,
+    "question": "Wie wird die manometrische Saughöhe ermittelt?",
+    "options": [
+      "Unterschied zwischen theoretischer und geodätischer Saughöhe",
+      "Wird beim Saugbetrieb und Wasserförderung am Eingangsdruckmanometer abgelesen",
+      "Wird errechnet",
+      "Muss durch Messung des senkrechten Abstandes zwischen Mitte Pumpenwelle und Wasseroberfläche ermittelt werden"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 95,
+    "page": 24,
+    "question": "Welche Aufgabe hat die Zündkerze im Ottomotor?",
+    "options": [
+      "Die Zündkerze startet den Motor",
+      "Die Zündkerze erwärmt die angesaugte Luft und leitet die Verbrennung ein",
+      "Die Verbrennung des Kraftstoff-Luft-Gemisches durch einen elektrischen Funken einzuleiten"
+    ],
+    "correctAnswers": [
+      2
+    ]
+  },
+  {
+    "id": 96,
+    "page": 24,
+    "question": "Was bedeutet die Bezeichnung TP 4/1?",
+    "options": [
+      "Tauchpumpe, Nennleistung 400 l/min bei 1 m Saughöhe",
+      "Tauchmotorpumpe, Nennförderleistung 400 l/min bei einem Nennförderdruck von 1 bar",
+      "Tauchmotorpumpe, Nennförderdruck von 4 bar bei einer Nennförderleistung von 100 l/min",
+      "Turbinenpumpe, Nennleistung 400 l/min bei einem Nennförderdruck von 1 bar"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 97,
+    "page": 24,
+    "question": "Welche Ursache kann vorliegen, wenn während des Hydrantenbetriebs der Einund Ausgangsdruck stark abfällt?",
+    "options": [
+      "Wasserabgabemenge an der Einsatzstelle wird stark erhöht",
+      "Wasserabgabemenge an der Einsatzstelle wird reduziert",
+      "Alle Strahlrohre wurden plötzlich geschlossen"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 98,
+    "page": 24,
+    "question": "Wann muss eine Trockensaugprobe durchgeführt werden?",
+    "options": [
+      "Nur bei der Leistungsprüfung",
+      "Nach jedem Nassbetrieb bzw. nach Herstellerangabe",
+      "vor jedem Einsatz",
+      "Nur vor der Frostperiode"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 99,
+    "page": 24,
+    "question": "Welche Besatzung und welche Beladung hat ein Tragkraftspritzenfahrzeug?",
+    "options": [
+      "Staffelbesatzung (1/5), Beladung für Staffel",
+      "Staffelbesatzung (1/5), Beladung für Löschgruppe",
+      "Löschgruppenbesatzung (1/8), Beladung für Löschgruppe"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 100,
+    "page": 25,
+    "question": "Was bedeutet die Bezeichnung FPN 10-1000?",
+    "options": [
+      "Feuerlöschkreiselpumpe Normaldruck mit einem Nennförderdruck von 10 bar und einem Nennförderstrom von 1.000 l/min bei einer geodätischen Saughöhe von 3 m und Höchstdrehzahl",
+      "Feuerlöschkreiselpumpe Normaldruck mit einem Nennförderdruck von 10 bar und einem Nennförderstrom von 1000 l/min bei einer geodätischen Saughöhe von 3 m",
+      "Feuerlöschkreiselpumpe Normaldruck mit einem Nennförderdruck von 10 bar und einem Nennförderstrom von 1.000 l/min bei einer geodätischen Saughöhe von 7,5 m und Höchstdrehzahl",
+      "Feuerlöschkreiselpumpe Normaldruck mit einem Nennförderdruck von 10 bar und einem Nennförderstrom von 1.000 l/min bei einer geodätischen Saughöhe von 7,5m"
+    ],
+    "correctAnswers": [
+      1
+    ]
+  },
+  {
+    "id": 101,
+    "page": 25,
+    "question": "Was unternimmt der Maschinist unmittelbar beim Eintreffen an der Einsatzstelle zur Absicherung?",
+    "options": [
+      "Er schaltet blaues Blinklicht ein",
+      "Er schaltet das Fahrlicht an Er stellt sich mit einer Warnflagge an den Straßenrand",
+      "Er schaltet die Warnblinkanlage ein"
+    ],
+    "correctAnswers": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "id": 102,
+    "page": 25,
+    "question": "Welche Tätigkeiten hat der Maschinist nach dem Betrieb einer Feuerlöschkreiselpumpe durchzuführen.",
+    "options": [
+      "Pumpe und Entlüftungseinrichtung entwässern",
+      "Pumpenwelle auf Spiel prüfen",
+      "Ölstand in der Entlüftungseinrichtung kontrollieren"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 103,
+    "page": 25,
+    "question": "Welchen Wert kann man am Eingangsdruckmanometer ablesen, wenn die bereits angesaugte Wassersäule in den Saugschläuchen zum Stillstand kommt.",
+    "options": [
+      "die geodätische Saughöhe",
+      "den tatsächlichen Luftdruck",
+      "den Schließdruck",
+      "die geodätische Nennsaughöhe"
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 104,
+    "page": 26,
+    "question": "Wie werden die elektrischen Verbraucher die an einen Stromerzeuger nach DIN 14685 angeschlossen werden, NICHT in Betrieb genommen",
+    "options": [
+      "durch das Betätigen – Einschalten der Sicherungsautomaten am Bedienfeld des Stromerzeugers",
+      "durch das Einstecken des Anschlusssteckers wenn der Stromerzeuger läuft",
+      "durch das Einschalten des elektrischen Verbrauchers, wenn der Anschlussstecker schon am Stromerzeuger angeschlossen ist und der Stromerzeuger läuft."
+    ],
+    "correctAnswers": [
+      0
+    ]
+  },
+  {
+    "id": 105,
+    "page": 26,
+    "question": "Was nach dem Einsatz eines Lüfters mit Ottomotor zu beachten?",
+    "options": [
+      "Der Maschinist muss beschädigte Propellerblätter mit einer Feile entgraten",
+      "es ist zu kontrollieren ob Beschädigungen an den Propellerblättern aufgetreten sind",
+      "Der Tankfüllstand ist zu kontrollieren"
+    ],
+    "correctAnswers": [
+      1,
+      2
+    ]
+  }
+];

@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Maschinisten Lerntrainer</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="hero">
+        <p class="eyebrow">Feuerwehr Lehrgang</p>
+        <h1>Maschinisten Lerntrainer</h1>
+        <p class="hero-copy">
+          20 Zufallsfragen pro Runde, automatische Auswertung und ein kompletter Fragenkatalog mit den richtigen Antworten.
+        </p>
+      </header>
+
+      <nav class="tabs" aria-label="Ansichten">
+        <button class="tab-button is-active" type="button" data-tab-target="quiz">Quiz</button>
+        <button class="tab-button" type="button" data-tab-target="catalog">Fragenkatalog</button>
+      </nav>
+
+      <main>
+        <section class="tab-panel is-active" id="quiz">
+          <div class="panel-header">
+            <div>
+              <h2>Prüfungsmodus</h2>
+              <p>Es werden immer 20 Fragen gemischt. Bestanden ab 50&nbsp;% richtig.</p>
+            </div>
+            <button class="secondary-button" id="new-quiz-button" type="button">Neue Runde</button>
+          </div>
+
+          <form id="quiz-form" class="question-list"></form>
+
+          <div class="quiz-actions">
+            <button class="primary-button" id="submit-quiz-button" type="submit" form="quiz-form">Quiz auswerten</button>
+          </div>
+
+          <section class="result-card hidden" id="quiz-result" aria-live="polite"></section>
+        </section>
+
+        <section class="tab-panel" id="catalog">
+          <div class="panel-header">
+            <div>
+              <h2>Kompletter Fragenkatalog</h2>
+              <p>Alle Fragen mit den im PDF markierten richtigen Antworten.</p>
+            </div>
+          </div>
+
+          <div class="catalog-search">
+            <label for="catalog-filter" class="visually-hidden">Fragen filtern</label>
+            <input id="catalog-filter" type="search" placeholder="Frage oder Antwort durchsuchen">
+          </div>
+
+          <div class="question-list" id="catalog-list"></div>
+        </section>
+      </main>
+    </div>
+
+    <script src="questions-data.js"></script>
+    <script src="app.js"></script>
+  </body>
+  </html>

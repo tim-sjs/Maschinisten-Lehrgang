@@ -1,0 +1,26 @@
+{
+  "name": "maschinisten-lehrgang",
+  "version": "1.0.0",
+  "description": "Statische Lernanwendung für den Feuerwehr-Maschinistenlehrgang",
+  "main": "index.js",
+  "scripts": {
+    "build:data": "node scripts/extract-questions.js",
+    "test": "node scripts/check-data.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tim-sjs/Maschinisten-Lehrgang.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tim-sjs/Maschinisten-Lehrgang/issues"
+  },
+  "homepage": "https://github.com/tim-sjs/Maschinisten-Lehrgang#readme",
+  "dependencies": {
+    "pdf-parse": "^2.4.5",
+    "pdfjs-dist": "^5.4.296",
+    "pngjs": "^7.0.0"
+  }
+}

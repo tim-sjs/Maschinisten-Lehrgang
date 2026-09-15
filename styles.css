@@ -1,0 +1,270 @@
+:root {
+  color-scheme: light;
+  --bg: #f4f7fb;
+  --surface: #ffffff;
+  --surface-alt: #f9fbff;
+  --text: #163047;
+  --muted: #567086;
+  --primary: #c62828;
+  --primary-dark: #9f1f1f;
+  --accent: #ffc400;
+  --accent-soft: #fff6cf;
+  --border: #d9e2ec;
+  --success-bg: #e7f7ec;
+  --success-text: #146c2e;
+  --danger-bg: #fdecec;
+  --danger-text: #a11e1e;
+  --shadow: 0 12px 32px rgba(25, 60, 94, 0.08);
+  font-family: Arial, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: linear-gradient(180deg, #edf3f8 0%, var(--bg) 100%);
+  color: var(--text);
+}
+
+.app-shell {
+  width: min(1100px, calc(100% - 32px));
+  margin: 0 auto;
+  padding: 32px 0 48px;
+}
+
+.hero,
+.tab-panel,
+.tabs {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+}
+
+.hero {
+  padding: 28px;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: var(--primary);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  margin-bottom: 12px;
+}
+
+.hero-copy,
+.panel-header p,
+.result-meta,
+.question-meta,
+.catalog-search input,
+.option-hint {
+  color: var(--muted);
+}
+
+.tabs {
+  display: flex;
+  gap: 12px;
+  margin: 20px 0;
+  padding: 12px;
+}
+
+.tab-button,
+.primary-button,
+.secondary-button {
+  border: 0;
+  border-radius: 12px;
+  cursor: pointer;
+  font: inherit;
+  transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+
+.tab-button {
+  padding: 12px 18px;
+  background: transparent;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+.tab-button.is-active {
+  background: #e8f0f8;
+  color: var(--text);
+}
+
+.tab-panel {
+  display: none;
+  padding: 24px;
+}
+
+.tab-panel.is-active {
+  display: block;
+}
+
+.panel-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 24px;
+}
+
+.primary-button,
+.secondary-button {
+  padding: 12px 18px;
+  font-weight: 700;
+}
+
+.primary-button {
+  background: var(--primary);
+  color: #fff;
+}
+
+.primary-button:hover,
+.primary-button:focus-visible {
+  background: var(--primary-dark);
+}
+
+.secondary-button {
+  background: #eef4fa;
+  color: var(--text);
+}
+
+.secondary-button:hover,
+.secondary-button:focus-visible,
+.tab-button:hover,
+.tab-button:focus-visible {
+  transform: translateY(-1px);
+}
+
+.question-list {
+  display: grid;
+  gap: 16px;
+}
+
+.question-card {
+  background: var(--surface-alt);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 18px;
+}
+
+.question-meta {
+  margin-bottom: 10px;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.question-card h3 {
+  margin-bottom: 14px;
+  font-size: 1.05rem;
+}
+
+.option-list {
+  display: grid;
+  gap: 10px;
+}
+
+.option-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 12px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+}
+
+.option-row input {
+  margin-top: 2px;
+}
+
+.option-row.correct-answer {
+  background: var(--accent-soft);
+  border-color: #e2c553;
+}
+
+.option-row.correct-answer .option-label {
+  font-weight: 700;
+}
+
+.option-row.answer-correct {
+  background: var(--success-bg);
+  border-color: #91d0a1;
+}
+
+.option-row.answer-wrong {
+  background: var(--danger-bg);
+  border-color: #e7a1a1;
+}
+
+.quiz-actions {
+  margin-top: 24px;
+}
+
+.result-card {
+  margin-top: 24px;
+  padding: 20px;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+}
+
+.result-card.pass {
+  background: var(--success-bg);
+  color: var(--success-text);
+  border-color: #91d0a1;
+}
+
+.result-card.fail {
+  background: var(--danger-bg);
+  color: var(--danger-text);
+  border-color: #e7a1a1;
+}
+
+.result-card h3 {
+  margin-bottom: 8px;
+}
+
+.catalog-search {
+  margin-bottom: 20px;
+}
+
+.catalog-search input {
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  font: inherit;
+}
+
+.hidden,
+.visually-hidden {
+  display: none;
+}
+
+@media (max-width: 760px) {
+  .app-shell {
+    width: min(100% - 20px, 1100px);
+    padding-top: 20px;
+  }
+
+  .panel-header {
+    flex-direction: column;
+  }
+
+  .tabs {
+    flex-direction: column;
+  }
+}
